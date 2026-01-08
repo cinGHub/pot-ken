@@ -3,7 +3,7 @@
 
 # Pot-ken v1.3.0
 
-*Heat* / calor in Selk’nam language
+*Heat in* Selk’nam language / calor en Selk’nam
 
 *A reproducible R workflow for energy density estimation using a Parr
 6725 calorimeter*
