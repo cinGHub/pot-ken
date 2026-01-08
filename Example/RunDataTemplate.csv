@@ -1,0 +1,1 @@
+SampleID,Timestamp,Mode,Method,State,Units,UnitMultIfOther,BombID,BombEE,SampleWt,SpikeWt,Fuse,FuseFinal,Acid,AcidFinal,Sulfur,SulfurFinal,Hydrogen,HydrogenFinal,MAD,MADFinal,JacketTemp,InitTemp,DeltaT,HOC,NetHOC,<blank>,DryNetHOC,Oxygen,OxygenFinal,Nitrogen,NitrogenFinal,MAR,MARFinal,ARNetHOC,BombName
