@@ -93,6 +93,9 @@ uso
   library(here)
   ```
 
+File paths are handled using the `here` package to ensure
+platform-independent execution.
+
 ## Usage/Uso
 
 ### English
